@@ -8,7 +8,7 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
-	
+	color: #8c9aa9;
 	background-color: #2c4762;
 }
 
@@ -21,7 +21,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $new-link-color;
     }
 }
 
